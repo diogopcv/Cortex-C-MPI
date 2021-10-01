@@ -1,6 +1,6 @@
 # Cortex-CPP-MPI
 
-| Italic             |  Block letters |
+|              |   |
 ------------ | -------------
 ![](/Images/RS.png) | ![](/Images/FS.png)
 ![](/Images/CHS.png) | ![](/Images/IBS.png)

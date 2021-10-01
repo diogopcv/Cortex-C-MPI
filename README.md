@@ -1,6 +1,6 @@
 # Cortex-CPP-MPI
 
-## Hierarchical modular neural network. Implementation in C++ using MPI
+## Cortex neural network. Implementation in C++ using MPI
 
 |||
 ------------ | -------------

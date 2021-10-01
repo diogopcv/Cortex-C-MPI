@@ -1,8 +1,9 @@
 # Cortex-CPP-MPI
 
+| Italic             |  Block letters |
 ------------ | -------------
-![image](/Images/RS.png) | ![image](/Images/FS.png)
-![image](/Images/CHS.png) | ![image](/Images/IBS.png)
-![image](/Images/LTS.png) | ![image](/Images/lscell.png)
-![image](/Images/table_connection.png) | ![image](/Images/table_axonRange.png)
-![image](/Images/psth_raster_voltage_pt.png)
+![](/Images/RS.png) | ![](/Images/FS.png)
+![](/Images/CHS.png) | ![](/Images/IBS.png)
+![](/Images/LTS.png) | ![](/Images/lscell.png)
+![](/Images/table_connection.png) | ![](/Images/table_axonRange.png)
+![](/Images/psth_raster_voltage_pt.png)
